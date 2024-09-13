@@ -1,0 +1,29 @@
+// basic-styles
+$black: #000;
+$white: #fff;
+
+// block-styles
+$block-style: #f0f0f0;
+
+// font-1
+%font {
+  font-family: "Candal", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+// font-2
+
+%two-font-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+%tree-font-text {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 380;
+  font-style: normal;
+}
+
